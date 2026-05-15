@@ -1,0 +1,12 @@
+PyQt6==6.7.1
+faster-whisper==1.0.3
+sounddevice==0.4.7
+numpy==1.26.4
+scipy==1.13.1
+pyautogui==0.9.54
+keyboard==0.13.5
+pywin32==306
+pygetwindow==0.0.9
+pyperclip==1.9.0
+pyinstaller==6.9.0
+requests==2.32.3
